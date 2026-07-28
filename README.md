@@ -1,3 +1,6 @@
-# XLC
-XLC - XNT LICENSE COPYRIGHT (v1.0)
-[![License: XLC](https://img.shields.io/badge/License-XLC_v1.0-blueviolet.svg)](LICENSE)
+## Licență / License (XLC)
+
+Acest proiect este protejat de licența **XLC (XNT License Copyright)**.
+
+* 🇷🇴 [Citește Licența în Română](LICENSE-RO) | [Exemplu de folosire](RO-EXEMPLU-FOLOSIRE.MD)
+* 🇬🇧 [Read License in English](LICENSE-EN) | [Example Usage](EN-EXAMPLE-USAGE.MD)
