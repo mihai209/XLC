@@ -1,0 +1,67 @@
+SPDX-License-Identifier: LicenseRef-XLC
+
+===============================================================================
+                    XLC - XNT LICENSE COPYRIGHT (v1.0)
+===============================================================================
+
+Project Name : [Project Name]
+Year         : [Year]
+GitHub User  : [GitHub Username]
+
+-------------------------------------------------------------------------------
+1. PURPOSE AND APPLICABILITY
+-------------------------------------------------------------------------------
+This license (XLC - XNT License Copyright) governs copyright, distribution, 
+modification, and transparency requirements for the project specified above. 
+By accessing or using this codebase, you agree to be bound by the terms of XLC.
+
+-------------------------------------------------------------------------------
+2. CLOSED-SOURCE CODE AND UNAUTHORIZED DISCLOSURE (LEAKS)
+-------------------------------------------------------------------------------
+a) If this software or its source code is classified as closed-source and has 
+   been made public through unauthorized leaks or breaches, any access, 
+   copying, distribution, or execution is STRICTLY PROHIBITED.
+b) Unauthorized disclosure constitutes a severe copyright infringement and 
+   will result in immediate and rigorous legal action in court against all 
+   parties involved in leaking or using the source code.
+
+-------------------------------------------------------------------------------
+3. OFFICIALLY PUBLISHED CODE AND COPYLEFT OBLIGATIONS
+-------------------------------------------------------------------------------
+If the code has been officially and voluntarily published by the Author ([GitHub Username]):
+
+a) COPYRIGHT RETENTION: Users are required to keep all copyright notices, 
+   author attributions, and this license header intact in all existing or 
+   derived files. Modifying or removing the original author's name is prohibited.
+b) MANDATORY PUBLICATION OF CHANGES (COPYLEFT): Any user or contributor who 
+   modifies, improves, or expands the existing code is obligated to publicly 
+   release (via publish/pull request) all changes under the same XLC license 
+   within the original repository or a public fork.
+
+-------------------------------------------------------------------------------
+4. CORPORATE TRANSPARENCY
+-------------------------------------------------------------------------------
+Any corporation, enterprise, or commercial entity using, integrating, or 
+executing this software is legally and ethically bound to maintain 100% 
+transparency with its end users regarding data handling, integrated features, 
+and the usage of this codebase within their products.
+
+-------------------------------------------------------------------------------
+5. ARTIFICIAL INTELLIGENCE OBLIGATIONS (VIBE-CODING / AI DISCLOSURE)
+-------------------------------------------------------------------------------
+a) All developers and contributors who utilize Generative AI tools (e.g., LLMs, 
+   AI code assistants) to write or modify code are REQUIRED to explicitly declare:
+     - The usage of AI in the development process.
+     - The exact AI model utilized (e.g., GPT-4o, Claude 3.5 Sonnet, Gemini, etc.).
+b) WARNING: AI-assisted or AI-generated code is flagged accordingly to inform 
+   the community that it may contain unexpected errors, logic flaws, or security 
+   vulnerabilities.
+
+-------------------------------------------------------------------------------
+6. DISCLAIMER OF WARRANTY ("AS IS")
+-------------------------------------------------------------------------------
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+IMPLIED. THE AUTHOR SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER 
+LIABILITY ARISING FROM UNEXPECTED ERRORS OR THE MISUSE OF THIS SOFTWARE.
+
+===============================================================================
