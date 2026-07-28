@@ -1,0 +1,70 @@
+SPDX-License-Identifier: LicenseRef-XLC
+
+===============================================================================
+                    XLC - XNT LICENSE COPYRIGHT (v1.0)
+===============================================================================
+
+Nume Proiect : [Numele Proiectului]
+Anul         : [Anul]
+Autor GitHub : [Username GitHub]
+
+-------------------------------------------------------------------------------
+1. SCOP ȘI APLICABILITATE
+-------------------------------------------------------------------------------
+Prezenta licență (XLC - XNT License Copyright) reglementează drepturile de autor,
+distribuția, modificarea și condițiile de transparență pentru proiectul menționat
+mai sus. Prin accesarea sau utilizarea acestui cod, acceptați termenii XLC.
+
+-------------------------------------------------------------------------------
+2. COD CLOSED-SOURCE SAU DIVULGAT NEAUTORIZAT (LEAKS)
+-------------------------------------------------------------------------------
+a) În cazul în care acest software sau codul său sursă este clasificat drept 
+   closed-source și a fost făcut public prin scurgeri neautorizate (leak-uri), 
+   accesul, copierea, distribuția sau utilizarea sa sunt STRICT INTERZISE.
+b) Divulgarea neautorizată constituie o încălcare gravă a drepturilor de autor 
+   și va atrage acțiuni juridice imediate și severe în instanță împotriva tuturor 
+   părților implicate în scurgerea sau utilizarea codului.
+
+-------------------------------------------------------------------------------
+3. COD PUBLICAT OFICIAL ȘI OBLIGAȚII DE COPYLEFT
+-------------------------------------------------------------------------------
+Dacă codul a fost publicat oficial și de bunăvoie de către Autor ([Username GitHub]):
+
+a) PĂSTRAREA COPYRIGHT-ULUI: Utilizatorii sunt obligați să păstreze intacte 
+   toate antetele de copyright, mențiunile despre autor și această licență în 
+   toate fișierele existente sau derivate. Modificarea sau ștergerea numelui 
+   autorului original este interzisă.
+b) OBLIGAȚIA DE PUBLICARE A MODIFICĂRILOR (COPYLEFT): Orice utilizator sau 
+   contribuitor care aduce modificări, îmbunătățiri sau extinderi codului existent 
+   este obligat să facă publice (să efectueze publish/pull request) toate 
+   modificările efectuate, sub aceeași licență XLC, în cadrul repository-ului sursă 
+   sau într-un fork public.
+
+-------------------------------------------------------------------------------
+4. TRANSPARENȚĂ CORPORATIVĂ
+-------------------------------------------------------------------------------
+Orice corporație, companie sau entitate comercială care utilizează, integrează 
+sau rulează acest software are obligația legală și etică de a fi 100% transparentă 
+cu utilizatorii săi finali cu privire la modul de procesare al datelor, funcționalitățile 
+integrate și utilizarea acestui cod în produsele lor.
+
+-------------------------------------------------------------------------------
+5. OBLIGAȚII PRIVIND INTELIGENȚA ARTIFICIALĂ (VIBE-CODING / AI DISCLOSURE)
+-------------------------------------------------------------------------------
+a) Toți dezvoltatorii și contribuitorii care folosesc instrumente de AI 
+   Generativ (ex: LLM-uri, AI code assistants) pentru generarea sau modificarea 
+   codului sunt OBLIGAȚI să declare explicit în documentație / commits:
+     - Faptul că s-a utilizat AI pentru scrierea codului.
+     - Modelul exact de AI utilizat (ex: GPT-4o, Claude 3.5 Sonnet, Gemini etc.).
+b) AVERTISMENT: Codul generat sau asistat de AI este marcat ca atare pentru a 
+   informa comunitatea că poate conține erori neașteptate, halucinații de logică 
+   sau vulnerabilități de securitate.
+
+-------------------------------------------------------------------------------
+6. EXCLUDEREA GARANȚIEI ("AS IS")
+-------------------------------------------------------------------------------
+SOFTWARE-UL ESTE FURNIZAT "CA ATARE", FĂRĂ NICIUN FEL DE GARANȚIE EXPRESĂ SAU 
+IMPLICITĂ. AUTORUL NU ÎȘI ASUMĂ RĂSPUNDEREA PENTRU NICIUN FEL DE DAUNE CAUZATE 
+DE ERORI NEAȘTEPTATE SAU DE UTILIZAREA NECORESPUNZĂTOARE A ACESTUI COD.
+
+===============================================================================
